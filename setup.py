@@ -2,8 +2,8 @@
 from setuptools import setup, find_packages
 
 setup(
-  name= 'pypippackageexample',
-  version='0.0.1',
+  name= 'pypippackageexample-ed',
+  version='0.0.2',
   license='MIT',
   description='paquete de prueba para una clase de Udemy',
   author='Eduardo',
